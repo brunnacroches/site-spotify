@@ -57,8 +57,8 @@ nav.navbar-transparente {
 	-webkit-border-radius: 500px;
 	-moz-border-radius:  500px;
 	text-transform: uppercase;
-	transition: background: 0.4s, color 0.4s;
-	padding: 10px 20px;
+	transition: background 0.4s, color 0.4s;
+	padding: 10px 20px
 }
 
 .btn-roxo {
